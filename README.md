@@ -4,6 +4,7 @@ IPv4 | IPv6
 ------------ | -------------
 32 binary bits | 128 binary bits
 216.27.61.137 | 2001:cdba:0000:0000:0000:0000:3257:9652
+
 [IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
 
 ## What is a Netmask
