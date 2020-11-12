@@ -70,8 +70,10 @@ The Domain Name System (DNS) is the phonebook of the Internet. When users type d
 ## What are the rules to make 2 devices communicate using IP addresses
 ISP assigns an IP address, which is a unique address given to your computer or network to communicate on the Internet.
 ## How does routing work with IP
+IP routing is a process of transferring data from one network to another as IP packets. Routers provide [IP routing](https://www.computernetworkingnotes.com/ccna-study-guide/basic-of-ip-routing-explained-with-example.html)
 ## What is a default gateway for routing
+A default gateway is an interface of a router that connects the local network with the remote network. By default, an IP protocol forwards all packets to the default gateway except the packets that belong to the local IP network.
 ## What is a port from an IP point of view and what is it used for when connecting to another device
-
+Just as the IP address identifies the computer, The [network port](http://www.steves-internet-guide.com/tcpip-ports-sockets/) identifies the application or service running on the computer.
 ### Additional Resources
 [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
