@@ -28,7 +28,7 @@ An IP broadcast address is the highest number in its class; for example, the bro
 The broadcast address for a subnet must account for the part of the address that is reserved for the subnet
 https://www.pcmag.com/encyclopedia/term/broadcast-address
 ## What are the different ways to represent an ip address with the Netmask
-
+Dotted decimal, binary, or classless interdomain routing (CIDR)
 ## What are the differences between public and private IPs
 Private IP Address and Public IP Address are used to uniquely identify a machine on the internet. Private IP address is used with a local network and public IP address is used outside the network. Public IP address is provided by ISP, Internet Service Provider
 WAN | LAN
